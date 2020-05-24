@@ -1,110 +1,152 @@
-[20:14:53] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[20:14:53] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[20:14:53] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
-[20:14:53] [main/INFO]: Forge Mod Loader version 14.23.5.2854 for Minecraft 1.12.2 loading
-[20:14:53] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at C:\Games\Twitch\Install\runtime\jre-x64
-[20:14:53] [main/INFO]: Searching C:\Games\Twitch\Instances\modpack magic 1\Modpack-Full-Magic\mods for mods
-[20:14:53] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.63.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[20:14:53] [main/WARN]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[20:14:53] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[20:14:53] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[20:14:53] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[20:14:53] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[20:14:53] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[20:14:55] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[20:14:55] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
-[20:14:55] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[20:14:55] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[20:14:56] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[20:14:56] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[20:14:56] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[20:14:56] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
-[20:14:56] [Client thread/INFO]: Setting user: CallBatman
-[20:14:59] [Client thread/WARN]: Skipping bad option: lastServer:
-[20:14:59] [Client thread/INFO]: LWJGL Version: 2.9.4
-[20:15:01] [Client thread/INFO]: -- System Details --
+[20:30:42] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[20:30:42] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[20:30:42] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[20:30:42] [main/INFO]: Forge Mod Loader version 14.23.5.2854 for Minecraft 1.12.2 loading
+[20:30:42] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at C:\Program Files (x86)\Minecraft Launcher\Install\runtime\jre-x64
+[20:30:42] [main/INFO]: Searching C:\Program Files (x86)\Minecraft Launcher\Instances\Modpack Full Magic\mods for mods
+[20:30:42] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.63.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[20:30:42] [main/WARN]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:30:42] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:30:42] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[20:30:42] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:30:42] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:30:42] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:30:44] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[20:30:44] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[20:30:44] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:30:44] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[20:30:44] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:30:44] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[20:30:44] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[20:30:44] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[20:30:45] [Client thread/INFO]: Setting user: CallFlash
+[20:30:47] [Client thread/WARN]: Skipping bad option: lastServer:
+[20:30:47] [Client thread/INFO]: LWJGL Version: 2.9.4
+[20:30:48] [Client thread/INFO]: -- System Details --
 Details:
 	Minecraft Version: 1.12.2
 	Operating System: Windows 10 (amd64) version 10.0
 	Java Version: 1.8.0_51, Oracle Corporation
 	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
-	Memory: 625048832 bytes (596 MB) / 771227648 bytes (735 MB) up to 5488246784 bytes (5234 MB)
-	JVM Flags: 4 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx5888m -Xms256m -XX:PermSize=256m
+	Memory: 132538400 bytes (126 MB) / 725614592 bytes (692 MB) up to 3008888832 bytes (2869 MB)
+	JVM Flags: 4 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx3228m -Xms256m -XX:PermSize=256m
 	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
 	FML: 
 	Loaded coremods (and transformers): 
 Inventory Tweaks Coremod (InventoryTweaks-1.63.jar)
   invtweaks.forge.asm.ContainerTransformer
-	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 442.19' Renderer: 'GeForce GTX 1050 Ti/PCIe/SSE2'
-[20:15:01] [Client thread/INFO]: MinecraftForge v14.23.5.2854 Initialized
-[20:15:01] [Client thread/INFO]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[20:15:01] [Client thread/INFO]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[20:15:01] [Client thread/INFO]: Replaced 1227 ore ingredients
-[20:15:01] [Client thread/INFO]: Searching C:\Games\Twitch\Instances\modpack magic 1\Modpack-Full-Magic\mods for mods
-[20:15:02] [Client thread/INFO]: Forge Mod Loader has identified 7 mods to load
-[20:15:02] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, inventorytweaks, jei, mousetweaks] at CLIENT
-[20:15:02] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, inventorytweaks, jei, mousetweaks] at SERVER
-[20:15:03] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Just Enough Items, FMLFileResourcePack:Mouse Tweaks
-[20:15:03] [Client thread/INFO]: Processing ObjectHolder annotations
-[20:15:03] [Client thread/INFO]: Found 1168 ObjectHolder annotations
-[20:15:03] [Client thread/INFO]: Identifying ItemStackHolder annotations
-[20:15:03] [Client thread/INFO]: Found 0 ItemStackHolder annotations
-[20:15:03] [Client thread/INFO]: Configured a dormant chunk cache size of 0
-[20:15:03] [Thread-3/INFO]: Using sync timing. 200 frames of Display.update took 309028000 nanos
-[20:15:03] [Forge Version Check/INFO]: [mousetweaks] Starting version check at http://play.sourceruns.org/yalter/MouseTweaks/update.json
-[20:15:04] [Client thread/INFO]: Applying holder lookups
-[20:15:04] [Client thread/INFO]: Holder lookups applied
-[20:15:04] [Client thread/INFO]: Applying holder lookups
-[20:15:04] [Client thread/INFO]: Holder lookups applied
-[20:15:04] [Client thread/INFO]: Applying holder lookups
-[20:15:04] [Client thread/INFO]: Holder lookups applied
-[20:15:04] [Client thread/INFO]: Applying holder lookups
-[20:15:04] [Client thread/INFO]: Holder lookups applied
-[20:15:04] [Client thread/INFO]: Injecting itemstacks
-[20:15:04] [Client thread/INFO]: Itemstack injection complete
-[20:15:04] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[20:15:04] [Thread-5/INFO]: Initializing LWJGL OpenAL
-[20:15:04] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[20:15:04] [Thread-5/INFO]: OpenAL initialized.
-[20:15:05] [Sound Library Loader/INFO]: Sound engine started
-[20:15:05] [Forge Version Check/INFO]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[20:15:06] [Forge Version Check/INFO]: [forge] Found status: UP_TO_DATE Target: null
-[20:15:07] [Client thread/INFO]: Max texture size: 16384
-[20:15:09] [Client thread/INFO]: Created: 512x512 textures-atlas
-[20:15:11] [Client thread/INFO]: Applying holder lookups
-[20:15:11] [Client thread/INFO]: Holder lookups applied
-[20:15:11] [Client thread/INFO]: Mod initialized
-[20:15:11] [Client thread/INFO]: Created: 256x128 textures-atlas
-[20:15:11] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] A call to initialize, entry point: FORGE.
-[20:15:11] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Reflecting GuiContainer...
-[20:15:11] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Detected obfuscation: FORGE.
-[20:15:11] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Success.
-[20:15:11] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Minecraft Forge is installed.
-[20:15:11] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] LiteLoader is not installed.
-[20:15:11] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Using Forge for the mod operation.
-[20:15:11] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Mouse Tweaks has been initialized.
-[20:15:11] [Client thread/INFO]: Injecting itemstacks
-[20:15:11] [Client thread/INFO]: Itemstack injection complete
-[20:15:11] [Client thread/INFO]: Starting JEI...
-[20:15:11] [Client thread/INFO]: Registering recipe categories...
-[20:15:11] [Client thread/INFO]: Registering recipe categories took 18.88 ms
-[20:15:11] [Client thread/INFO]: Registering mod plugins...
-[20:15:11] [Client thread/INFO]: Registering mod plugins took 148.4 ms
-[20:15:11] [Client thread/INFO]: Building recipe registry...
-[20:15:11] [Client thread/INFO]: Building recipe registry took 65.62 ms
-[20:15:11] [Client thread/INFO]: Building ingredient list...
-[20:15:11] [Client thread/INFO]: Building ingredient list took 21.08 ms
-[20:15:11] [Client thread/INFO]: Building ingredient filter...
-[20:15:11] [Client thread/INFO]: Building ingredient filter took 108.3 ms
-[20:15:11] [Client thread/INFO]: Building bookmarks...
-[20:15:11] [Client thread/INFO]: Building bookmarks took 4.247 ms
-[20:15:11] [Client thread/INFO]: Building runtime...
-[20:15:12] [Client thread/INFO]: InvTweaks: successfully transformed setFocused/func_146195_b
-[20:15:12] [Client thread/INFO]: Building runtime took 72.38 ms
-[20:15:12] [Client thread/INFO]: Starting JEI took 582.3 ms
-[20:15:12] [Client thread/INFO]: Forge Mod Loader has successfully loaded 7 mods
-[20:15:12] [Client thread/WARN]: Skipping bad option: lastServer:
-[20:15:12] [Client thread/INFO]: Narrator library for x64 successfully loaded
-[20:15:17] [Client thread/INFO]: Stopping!
-[20:15:17] [Client thread/INFO]: SoundSystem shutting down...
-[20:15:17] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 441.87' Renderer: 'GeForce RTX 2080/PCIe/SSE2'
+[20:30:48] [Client thread/INFO]: MinecraftForge v14.23.5.2854 Initialized
+[20:30:48] [Client thread/INFO]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[20:30:48] [Client thread/INFO]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[20:30:48] [Client thread/INFO]: Replaced 1227 ore ingredients
+[20:30:48] [Client thread/INFO]: Searching C:\Program Files (x86)\Minecraft Launcher\Instances\Modpack Full Magic\mods for mods
+[20:30:49] [Client thread/INFO]: Forge Mod Loader has identified 7 mods to load
+[20:30:50] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, inventorytweaks, jei, mousetweaks] at CLIENT
+[20:30:50] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, inventorytweaks, jei, mousetweaks] at SERVER
+[20:30:50] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Just Enough Items, FMLFileResourcePack:Mouse Tweaks
+[20:30:50] [Client thread/INFO]: Processing ObjectHolder annotations
+[20:30:50] [Client thread/INFO]: Found 1168 ObjectHolder annotations
+[20:30:50] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[20:30:50] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[20:30:50] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[20:30:50] [Forge Version Check/INFO]: [mousetweaks] Starting version check at http://play.sourceruns.org/yalter/MouseTweaks/update.json
+[20:30:50] [Client thread/INFO]: Applying holder lookups
+[20:30:50] [Client thread/INFO]: Holder lookups applied
+[20:30:50] [Client thread/INFO]: Applying holder lookups
+[20:30:50] [Client thread/INFO]: Holder lookups applied
+[20:30:50] [Client thread/INFO]: Applying holder lookups
+[20:30:50] [Client thread/INFO]: Holder lookups applied
+[20:30:50] [Client thread/INFO]: Applying holder lookups
+[20:30:50] [Client thread/INFO]: Holder lookups applied
+[20:30:50] [Client thread/INFO]: Injecting itemstacks
+[20:30:50] [Client thread/INFO]: Itemstack injection complete
+[20:30:50] [Thread-3/INFO]: Using sync timing. 200 frames of Display.update took 99546300 nanos
+[20:30:51] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[20:30:51] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[20:30:51] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[20:30:51] [Thread-5/INFO]: OpenAL initialized.
+[20:30:51] [Sound Library Loader/INFO]: Sound engine started
+[20:30:52] [Forge Version Check/INFO]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[20:30:52] [Forge Version Check/INFO]: [forge] Found status: UP_TO_DATE Target: null
+[20:30:53] [Client thread/INFO]: Max texture size: 16384
+[20:30:54] [Client thread/INFO]: Created: 512x512 textures-atlas
+[20:30:55] [Client thread/INFO]: Applying holder lookups
+[20:30:55] [Client thread/INFO]: Holder lookups applied
+[20:30:55] [Client thread/INFO]: Mod initialized
+[20:30:55] [Client thread/INFO]: Created: 256x128 textures-atlas
+[20:30:55] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] A call to initialize, entry point: FORGE.
+[20:30:55] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Reflecting GuiContainer...
+[20:30:55] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Detected obfuscation: FORGE.
+[20:30:55] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Success.
+[20:30:55] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Minecraft Forge is installed.
+[20:30:55] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] LiteLoader is not installed.
+[20:30:55] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Using Forge for the mod operation.
+[20:30:55] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Mouse Tweaks has been initialized.
+[20:30:55] [Client thread/INFO]: Injecting itemstacks
+[20:30:55] [Client thread/INFO]: Itemstack injection complete
+[20:30:55] [Client thread/INFO]: Starting JEI...
+[20:30:55] [Client thread/INFO]: Registering recipe categories...
+[20:30:55] [Client thread/INFO]: Registering recipe categories took 10.92 ms
+[20:30:55] [Client thread/INFO]: Registering mod plugins...
+[20:30:55] [Client thread/INFO]: Registering mod plugins took 92.98 ms
+[20:30:55] [Client thread/INFO]: Building recipe registry...
+[20:30:55] [Client thread/INFO]: Building recipe registry took 39.16 ms
+[20:30:55] [Client thread/INFO]: Building ingredient list...
+[20:30:55] [Client thread/INFO]: Building ingredient list took 14.49 ms
+[20:30:55] [Client thread/INFO]: Building ingredient filter...
+[20:30:56] [Client thread/INFO]: Building ingredient filter took 67.86 ms
+[20:30:56] [Client thread/INFO]: Building bookmarks...
+[20:30:56] [Client thread/INFO]: Building bookmarks took 3.742 ms
+[20:30:56] [Client thread/INFO]: Building runtime...
+[20:30:56] [Client thread/INFO]: InvTweaks: successfully transformed setFocused/func_146195_b
+[20:30:56] [Client thread/INFO]: Building runtime took 53.09 ms
+[20:30:56] [Client thread/INFO]: Starting JEI took 374.1 ms
+[20:30:56] [Client thread/INFO]: Forge Mod Loader has successfully loaded 7 mods
+[20:30:56] [Client thread/WARN]: Skipping bad option: lastServer:
+[20:30:56] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[20:31:33] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
+[20:31:33] [Server thread/INFO]: Generating keypair
+[20:31:33] [Server thread/INFO]: Injecting existing registry data into this server instance
+[20:31:33] [Server thread/INFO]: Applying holder lookups
+[20:31:33] [Server thread/INFO]: Holder lookups applied
+[20:31:33] [Server thread/INFO]: Loading dimension 0 (New World) (net.minecraft.server.integrated.IntegratedServer@19e94df0)
+[20:31:33] [Server thread/INFO]: Loaded 488 advancements
+[20:31:34] [Server thread/INFO]: Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@19e94df0)
+[20:31:34] [Server thread/INFO]: Loading dimension 1 (New World) (net.minecraft.server.integrated.IntegratedServer@19e94df0)
+[20:31:34] [Server thread/INFO]: Preparing start region for level 0
+[20:31:35] [Server thread/INFO]: Preparing spawn area: 11%
+[20:31:36] [Server thread/INFO]: Preparing spawn area: 21%
+[20:31:37] [Server thread/INFO]: Preparing spawn area: 34%
+[20:31:38] [Server thread/INFO]: Preparing spawn area: 45%
+[20:31:39] [Server thread/INFO]: Preparing spawn area: 54%
+[20:31:40] [Server thread/INFO]: Preparing spawn area: 66%
+[20:31:41] [Server thread/INFO]: Preparing spawn area: 79%
+[20:31:42] [Server thread/INFO]: Preparing spawn area: 96%
+[20:31:42] [Server thread/INFO]: Unloading dimension -1
+[20:31:42] [Server thread/INFO]: Unloading dimension 1
+[20:31:42] [Server thread/INFO]: Changing view distance to 12, from 10
+[20:31:44] [Netty Local Client IO #0/INFO]: Server protocol version 2
+[20:31:44] [Netty Server IO #1/INFO]: Client protocol version 2
+[20:31:44] [Netty Server IO #1/INFO]: Client attempting to join with 7 mods : minecraft@1.12.2,FML@8.0.99.99,mousetweaks@2.10,forge@14.23.5.2854,inventorytweaks@1.63+release.109.220f184,mcp@9.42,jei@4.15.0.291
+[20:31:44] [Netty Local Client IO #0/INFO]: [Netty Local Client IO #0] Client side modded connection established
+[20:31:44] [Server thread/INFO]: [Server thread] Server side modded connection established
+[20:31:44] [Server thread/INFO]: CallFlash[local:E:7bfefc61] logged in with entity id 1998 at (27.5, 71.0, 256.5)
+[20:31:44] [Server thread/INFO]: CallFlash joined the game
+[20:31:45] [Server thread/INFO]: Saving and pausing game...
+[20:31:45] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[20:32:29] [Server thread/INFO]: Saving and pausing game...
+[20:32:29] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[20:32:30] [Server thread/INFO]: Stopping server
+[20:32:30] [Server thread/INFO]: Saving players
+[20:32:30] [Server thread/INFO]: CallFlash lost connection: Disconnected
+[20:32:30] [Server thread/INFO]: CallFlash left the game
+[20:32:30] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[20:32:30] [Server thread/INFO]: Saving worlds
+[20:32:30] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[20:32:30] [Server thread/INFO]: Unloading dimension 0
+[20:32:30] [Server thread/INFO]: Applying holder lookups
+[20:32:30] [Server thread/INFO]: Holder lookups applied
+[20:32:32] [Client thread/INFO]: Stopping!
+[20:32:32] [Client thread/INFO]: SoundSystem shutting down...
+[20:32:32] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
