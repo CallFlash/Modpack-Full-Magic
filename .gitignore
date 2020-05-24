@@ -1,2 +1,7 @@
 
 minecraftinstance.json
+*.log
+saves/
+logs/
+usernamecache.json
+usercache.json
