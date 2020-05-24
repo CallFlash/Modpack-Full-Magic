@@ -1,6 +1,7 @@
 
 minecraftinstance.json
 *.log
+*.log.gz
 saves/
 logs/
 configs/
