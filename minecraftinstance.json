@@ -40,7 +40,7 @@
   "modpackOverrides": null,
   "isMemoryOverride": false,
   "allocatedMemory": 3228,
-  "guid": "fed39210-6789-454f-a847-d67e2b22e53a",
+  "guid": "60b33c06-6ecf-4dfa-abde-be92f21f82c5",
   "gameTypeID": 432,
   "installPath": "C:\\Games\\Twitch\\Instances\\modpack magic 1\\Modpack-Full-Magic\\",
   "name": "Modpack-Full-Magic",
@@ -98,11 +98,11 @@
     "LastSyncDate": "0001-01-01T00:00:00"
   },
   "preferenceShowAddOnInfo": true,
-  "installDate": "2020-05-24T23:12:48.9018754Z",
+  "installDate": "2020-05-24T23:44:30.2918079Z",
   "installedAddons": [
     {
       "addonID": 227083,
-      "gameInstanceID": "fed39210-6789-454f-a847-d67e2b22e53a",
+      "gameInstanceID": "60b33c06-6ecf-4dfa-abde-be92f21f82c5",
       "installedFile": {
         "id": 2518667,
         "displayName": "Baubles-1.12-1.5.2.jar",
@@ -180,11 +180,11 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 60089,
-      "gameInstanceID": "fed39210-6789-454f-a847-d67e2b22e53a",
+      "gameInstanceID": "60b33c06-6ecf-4dfa-abde-be92f21f82c5",
       "installedFile": {
         "id": 2671937,
         "displayName": "[1.12.2] Mouse Tweaks 2.10",
@@ -252,11 +252,11 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 238222,
-      "gameInstanceID": "fed39210-6789-454f-a847-d67e2b22e53a",
+      "gameInstanceID": "60b33c06-6ecf-4dfa-abde-be92f21f82c5",
       "installedFile": {
         "id": 2803400,
         "displayName": "jei_1.12.2-4.15.0.291.jar",
@@ -340,7 +340,7 @@
     },
     {
       "addonID": 223094,
-      "gameInstanceID": "fed39210-6789-454f-a847-d67e2b22e53a",
+      "gameInstanceID": "60b33c06-6ecf-4dfa-abde-be92f21f82c5",
       "installedFile": {
         "id": 2482481,
         "displayName": "Inventory Tweaks 1.63",
