@@ -40,13 +40,29 @@
   "modpackOverrides": null,
   "isMemoryOverride": false,
   "allocatedMemory": 3228,
-  "guid": "8d5c88ad-153b-4124-a166-f798cf468e49",
+  "guid": "844be077-ac0f-4351-923b-a0aef9f9381f",
   "gameTypeID": 432,
-  "installPath": "C:\\Program Files (x86)\\Minecraft Launcher\\Instances\\Modpack Full Magic\\",
-  "name": "Modpack Full Magic",
-  "cachedScans": [],
+  "installPath": "C:\\Games\\Twitch\\Instances\\modpack magic 1\\Modpack-Full-Magic\\",
+  "name": "Modpack-Full-Magic",
+  "cachedScans": [
+    {
+      "folderName": "jei_1.12.2-4.15.0.291.jar",
+      "fingerprint": 3391578337,
+      "fileDateHash": 261286279,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3391578337
+      ],
+      "status": 1,
+      "timestamp": "2020-05-24T22:51:24.4558619Z",
+      "lastWriteTimeUtc": "2020-05-24T22:43:22.7931315Z",
+      "queryTimestamp": "2020-05-24T22:51:24.8857709Z",
+      "fileCount": 1,
+      "fileSize": 651473
+    }
+  ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "0001-01-01T00:00:00",
+  "lastPreviousMatchUpdate": "2020-05-24T22:51:25.5131731Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -67,11 +83,11 @@
     "LastSyncDate": "0001-01-01T00:00:00"
   },
   "preferenceShowAddOnInfo": true,
-  "installDate": "2020-05-24T22:24:41.5579914Z",
+  "installDate": "2020-05-24T22:51:23.7781465Z",
   "installedAddons": [
     {
       "addonID": 238222,
-      "gameInstanceID": "8d5c88ad-153b-4124-a166-f798cf468e49",
+      "gameInstanceID": "844be077-ac0f-4351-923b-a0aef9f9381f",
       "installedFile": {
         "id": 2803400,
         "displayName": "jei_1.12.2-4.15.0.291.jar",
@@ -89,48 +105,60 @@
           {
             "foldername": "META-INF",
             "fingerprint": 3894020924,
-            "type": 0
+            "type": 3
           },
           {
             "foldername": "mezz",
             "fingerprint": 2909248480,
-            "type": 0
+            "type": 3
           },
           {
             "foldername": "assets",
             "fingerprint": 3888864790,
-            "type": 0
+            "type": 3
           },
           {
             "foldername": "pack.mcmeta",
             "fingerprint": 1488642189,
-            "type": 0
+            "type": 3
           },
           {
             "foldername": "mcmod.info",
             "fingerprint": 4278251486,
-            "type": 0
+            "type": 3
           }
         ],
         "packageFingerprint": 3391578337,
         "gameVersion": [
           "1.12.2"
         ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000012.0000000002",
+            "gameVersion": "1.12.2",
+            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+            "gameVersionName": "1.12.2"
+          }
+        ],
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 1674109,
+        "projectId": 238222,
+        "packageFingerprintId": 364527459,
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
+        "gameVersionMappingId": 1962178,
+        "gameVersionId": 4458,
+        "gameId": 432,
         "isServerPack": false,
         "FileNameOnDisk": "jei_1.12.2-4.15.0.291.jar"
       },
-      "dateInstalled": "2020-05-24T22:29:26.3948654Z",
-      "dateUpdated": "2020-05-24T22:29:26.4008672Z",
-      "dateLastUpdateAttempted": "2020-05-24T22:29:26.4008672Z",
-      "status": 4,
+      "dateInstalled": "2020-05-24T22:51:25.512177Z",
+      "dateUpdated": "2019-05-24T22:51:25.512177Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
