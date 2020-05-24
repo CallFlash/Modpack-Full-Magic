@@ -3,5 +3,6 @@ minecraftinstance.json
 *.log
 saves/
 logs/
+configs/
 usernamecache.json
 usercache.json
