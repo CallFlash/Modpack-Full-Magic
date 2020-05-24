@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2020-05-24T23:14:52.0046601Z",
+  "lastPlayed": "2020-05-24T23:36:29.7973573Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -100,6 +100,88 @@
   "preferenceShowAddOnInfo": true,
   "installDate": "2020-05-24T23:12:48.9018754Z",
   "installedAddons": [
+    {
+      "addonID": 227083,
+      "gameInstanceID": "fed39210-6789-454f-a847-d67e2b22e53a",
+      "installedFile": {
+        "id": 2518667,
+        "displayName": "Baubles-1.12-1.5.2.jar",
+        "fileName": "Baubles-1.12-1.5.2.jar",
+        "fileDate": "2018-01-10T08:23:04.2Z",
+        "fileLength": 108450,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2518/667/Baubles-1.12-1.5.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0
+          },
+          {
+            "foldername": "baubles",
+            "fingerprint": 2902570102,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1531625824,
+            "type": 0
+          },
+          {
+            "foldername": "BLogo.png",
+            "fingerprint": 1045816268,
+            "type": 0
+          },
+          {
+            "foldername": "changelog.txt",
+            "fingerprint": 1972460944,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3685775933,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2185320186,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 4247051032,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Baubles-1.12-1.5.2.jar"
+      },
+      "dateInstalled": "2020-05-24T23:36:10.9545586Z",
+      "dateUpdated": "2020-05-24T23:36:10.9575514Z",
+      "dateLastUpdateAttempted": "2020-05-24T23:36:10.9575514Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
     {
       "addonID": 60089,
       "gameInstanceID": "fed39210-6789-454f-a847-d67e2b22e53a",
