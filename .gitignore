@@ -6,6 +6,9 @@ saves/
 logs/
 config/
 backups/
+shaderpacks/
+crash-reports/
+library/
 usernamecache.json
 usercache.json
 config/InvTweaks.cfg
@@ -17,3 +20,4 @@ config/InvTweaks.cfg
 config/splash.properties
 config/InvTweaks.cfg
 .mixin.out/audit/mixin_implementation_report.txt
+mods/OptiFine_1.12.2_HD_U_F5.jar
