@@ -8,3 +8,6 @@ config/
 backups/
 usernamecache.json
 usercache.json
+config/InvTweaks.cfg
+.mixin.out/audit/mixin_implementation_report.txt
+config/splash.properties
