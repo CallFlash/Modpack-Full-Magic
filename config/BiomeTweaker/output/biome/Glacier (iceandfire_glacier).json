@@ -21,8 +21,8 @@
   "Enable Snow": true,
   "Dictionary Types": [
     "DEAD",
-    "COLD",
     "SPARSE",
+    "COLD",
     "SNOWY",
     "WASTELAND"
   ],

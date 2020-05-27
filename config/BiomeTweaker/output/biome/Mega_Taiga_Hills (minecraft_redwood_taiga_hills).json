@@ -21,8 +21,8 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "CONIFEROUS",
-    "HILLS",
     "COLD",
+    "HILLS",
     "MEGA_TAIGA_TREES",
     "FOREST",
     "THEMED_TREES"
