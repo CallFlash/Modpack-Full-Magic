@@ -23,9 +23,9 @@
     "JUNGLE",
     "WET",
     "SANDY",
-    "HOT",
+    "SPARSE",
     "LUSH",
-    "SPARSE"
+    "HOT"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

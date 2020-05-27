@@ -21,9 +21,9 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "CONIFEROUS",
+    "FOREST",
     "TWILIGHT",
-    "MOUNTAIN",
-    "FOREST"
+    "MOUNTAIN"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
