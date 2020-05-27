@@ -21,8 +21,8 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "DEAD",
-    "DRY",
     "HILLS",
+    "DRY",
     "WASTELAND",
     "TWILIGHT"
   ],
