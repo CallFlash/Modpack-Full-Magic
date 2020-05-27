@@ -20,15 +20,15 @@
   "Enable Rain": true,
   "Enable Snow": true,
   "Dictionary Types": [
-    "DEAD",
+    "WASTELAND",
     "SPARSE",
     "COLD",
     "SNOWY",
-    "WASTELAND"
+    "DEAD"
   ],
   "BiomeManager Entries": {
     "COOL Weights": [
-      4
+      5
     ]
   },
   "Spawnable Creatures": [
@@ -265,13 +265,13 @@
   "BOP Weight Map": {},
   "BOP Climate Weights": {
     "BOREAL": [
-      4
+      5
     ],
     "COLD_SWAMP": [
-      4
+      5
     ],
     "COOL_TEMPERATE": [
-      4
+      5
     ]
   },
   "BOP Island Weight": 0

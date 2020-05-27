@@ -20,11 +20,11 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
+    "THEMED_TREES",
+    "FOREST",
     "SPOOKY",
     "DENSE",
-    "FOREST",
-    "BIRCH_TREES",
-    "THEMED_TREES"
+    "BIRCH_TREES"
   ],
   "BiomeManager Entries": {
     "WARM Weights": [
@@ -426,7 +426,7 @@
     },
     {
       "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityTroll",
-      "Weight": 60,
+      "Weight": 180,
       "Min Group Count": 1,
       "Max Group Count": 1
     },

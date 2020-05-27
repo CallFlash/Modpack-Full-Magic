@@ -20,12 +20,12 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
+    "WASTELAND",
     "MOUNTAIN",
     "MAGICAL",
-    "DRY",
-    "HILLS",
     "COLD",
-    "WASTELAND"
+    "HILLS",
+    "DRY"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -357,7 +357,7 @@
     },
     {
       "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityTroll",
-      "Weight": 60,
+      "Weight": 180,
       "Min Group Count": 1,
       "Max Group Count": 1
     },

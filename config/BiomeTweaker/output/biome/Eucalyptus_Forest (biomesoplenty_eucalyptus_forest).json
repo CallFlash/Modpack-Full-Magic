@@ -20,11 +20,11 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
+    "FOREST",
     "JUNGLE",
-    "LUSH",
     "WET",
     "DENSE",
-    "FOREST"
+    "LUSH"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -680,7 +680,7 @@
     },
     {
       "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityTroll",
-      "Weight": 60,
+      "Weight": 180,
       "Min Group Count": 1,
       "Max Group Count": 1
     },

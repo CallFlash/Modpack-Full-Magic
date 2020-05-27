@@ -20,11 +20,11 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "SPOOKY",
     "MOUNTAIN",
-    "RARE",
+    "FOREST",
+    "SPOOKY",
     "DENSE",
-    "FOREST"
+    "RARE"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -470,13 +470,13 @@
     },
     {
       "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityTroll",
-      "Weight": 60,
+      "Weight": 180,
       "Min Group Count": 1,
       "Max Group Count": 1
     },
     {
       "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityTroll",
-      "Weight": 60,
+      "Weight": 180,
       "Min Group Count": 1,
       "Max Group Count": 1
     },
