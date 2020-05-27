@@ -21,9 +21,9 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "SWAMP",
+    "TWILIGHT",
     "HOT",
-    "WASTELAND",
-    "TWILIGHT"
+    "WASTELAND"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
