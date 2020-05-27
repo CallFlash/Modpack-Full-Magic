@@ -7,6 +7,7 @@ logs/
 backups/
 shaderpacks/
 crash-reports/
+config/BiomeTweaker
 usernamecache.json
 usercache.json
 mods/OptiFine_1.12.2_HD_U_F5.jar
