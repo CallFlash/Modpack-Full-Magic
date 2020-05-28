@@ -21,11 +21,11 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "HOT",
-    "SPARSE",
-    "RARE",
     "HILLS",
+    "RARE",
+    "SAVANNA",
     "DRY",
-    "SAVANNA"
+    "SPARSE"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -217,7 +217,7 @@
     },
     {
       "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityCockatrice",
-      "Weight": 4,
+      "Weight": 2,
       "Min Group Count": 1,
       "Max Group Count": 2
     },

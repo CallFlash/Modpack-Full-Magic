@@ -20,17 +20,13 @@
   "Enable Rain": true,
   "Enable Snow": true,
   "Dictionary Types": [
+    "SNOWY",
+    "DEAD",
     "COLD",
     "WASTELAND",
-    "SPARSE",
-    "DEAD",
-    "SNOWY"
+    "SPARSE"
   ],
-  "BiomeManager Entries": {
-    "COOL Weights": [
-      5
-    ]
-  },
+  "BiomeManager Entries": {},
   "Spawnable Creatures": [
     {
       "Entity Class": "net.minecraft.entity.passive.EntityRabbit",
@@ -209,12 +205,6 @@
       "Max Group Count": 1
     },
     {
-      "Entity Class": "thaumcraft.common.entities.monster.EntityBrainyZombie",
-      "Weight": 10,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
       "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.frostmaw.EntityFrostmaw",
       "Weight": 1,
       "Min Group Count": 1,
@@ -243,7 +233,7 @@
       "Max Group Count": 8
     }
   ],
-  "Spawn Biome": true,
+  "Spawn Biome": false,
   "Tweaked": false,
   "BOP Generators": {
     "FLOWERS Generators": [
@@ -263,16 +253,6 @@
   },
   "BOP Owner": "OTHER",
   "BOP Weight Map": {},
-  "BOP Climate Weights": {
-    "BOREAL": [
-      5
-    ],
-    "COLD_SWAMP": [
-      5
-    ],
-    "COOL_TEMPERATE": [
-      5
-    ]
-  },
+  "BOP Climate Weights": {},
   "BOP Island Weight": 0
 }

@@ -23,8 +23,8 @@
     "HOT",
     "NETHER",
     "SANDY",
-    "DENSE",
-    "DRY"
+    "DRY",
+    "DENSE"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
