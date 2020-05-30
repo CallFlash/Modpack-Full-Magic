@@ -1,6 +1,6 @@
 import mods.jei.JEI;
 
-mods.jei.JEI.removeandHide(<bibliocraft:atlasbook>);
-mods.jei.JEI.removeandHide(<bibliocraft:atlasplate>);
-mods.jei.JEI.removeandHide(<bibliocraft:compass>);
-mods.jei.JEI.removeandHide(<bibliocraft:eternal_compass>);
+mods.jei.JEI.removeAndHide(<bibliocraft:atlasbook>);
+mods.jei.JEI.removeAndHide(<bibliocraft:atlasplate>);
+mods.jei.JEI.removeAndHide(<bibliocraft:compass>);
+mods.jei.JEI.removeAndHide(<bibliocraft:deathcompass>);
