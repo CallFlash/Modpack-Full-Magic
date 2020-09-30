@@ -1,5 +1,5 @@
-#Fri May 29 22:49:58 BRT 2020
-shaderPack=OFF
+#Tue Jun 02 07:06:34 BRT 2020
+shaderPack=BSL_v7.1.04.1.zip
 antialiasingLevel=4
 normalMapEnabled=true
 specularMapEnabled=true

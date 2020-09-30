@@ -1,1 +1,18 @@
-{"bookGuiScale":0,"clickedVisualize":false,"bookData":{}}
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "bewitchment:book_of_shadows": {
+      "viewedEntries": [
+        "bewitchment:world/minerals",
+        "bewitchment:world/spirits"
+      ],
+      "bookmarks": [],
+      "history": [
+        "bewitchment:world/spirits",
+        "bewitchment:world/minerals"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}
